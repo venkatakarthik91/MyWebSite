@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #333;
+    padding-top: 70px !important;
+    position: relative;
+}
+
+.center {
+    text-align: center;
+}
+.credit{
+    color : azure;
+    font-size:xx-small;
+}
